@@ -1,0 +1,6 @@
+D:\CRM\Visual-Studio\ClassLibrary001\bin\Debug\ClassLibrary001.dll
+D:\CRM\Visual-Studio\ClassLibrary001\bin\Debug\ClassLibrary001.pdb
+D:\CRM\Visual-Studio\ClassLibrary001\obj\Debug\ClassLibrary001.csproj.AssemblyReference.cache
+D:\CRM\Visual-Studio\ClassLibrary001\obj\Debug\ClassLibrary001.csproj.CoreCompileInputs.cache
+D:\CRM\Visual-Studio\ClassLibrary001\obj\Debug\ClassLibrary001.dll
+D:\CRM\Visual-Studio\ClassLibrary001\obj\Debug\ClassLibrary001.pdb
