@@ -1,0 +1,7 @@
+D:\CRM\Visual-Studio\Egitim001\bin\Debug\Egitim001.exe.config
+D:\CRM\Visual-Studio\Egitim001\bin\Debug\Egitim001.exe
+D:\CRM\Visual-Studio\Egitim001\bin\Debug\Egitim001.pdb
+D:\CRM\Visual-Studio\Egitim001\obj\Debug\Egitim001.csproj.AssemblyReference.cache
+D:\CRM\Visual-Studio\Egitim001\obj\Debug\Egitim001.csproj.CoreCompileInputs.cache
+D:\CRM\Visual-Studio\Egitim001\obj\Debug\Egitim001.exe
+D:\CRM\Visual-Studio\Egitim001\obj\Debug\Egitim001.pdb
